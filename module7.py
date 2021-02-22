@@ -22,22 +22,3 @@ inches += feet*12
 centimeter = round(inches*2.54,3)
 
 print(centimeter)
-
-############################
-
-#itertools
-
-
-
-
-#infinite iterators
-
-
-
-#itertools cycle
-
-
-
-
-#iterrools repeat
-
